@@ -8,7 +8,7 @@ const {
   } = require("@saltcorn/markup/tags");
   
   const fileplus = {
-    type: "File",
+    type: "Integer",
     isEdit: true,
     configFields: [
       {

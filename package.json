@@ -1,0 +1,19 @@
+{
+  "name": "fileplus",
+  "version": "1.0.0",
+  "description": "mejorar la carga de archivos en saltcorn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianlucafiore/fileplus.git"
+  },
+  "author": "Gianluca Fiore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gianlucafiore/fileplus/issues"
+  },
+  "homepage": "https://github.com/gianlucafiore/fileplus#readme"
+}
